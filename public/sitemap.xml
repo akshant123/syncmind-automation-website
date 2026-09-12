@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>/</loc><priority>1.0</priority></url>
+  <url><loc>/company</loc><priority>0.8</priority></url>
+  <url><loc>/resources</loc><priority>0.7</priority></url>
+  <url><loc>/demo</loc><priority>0.7</priority></url>
+  <url><loc>/contact</loc><priority>0.7</priority></url>
+  <url><loc>/platform/erp</loc><priority>0.6</priority></url>
+  <url><loc>/platform/crm</loc><priority>0.6</priority></url>
+  <url><loc>/platform/hr</loc><priority>0.6</priority></url>
+  <url><loc>/platform/education</loc><priority>0.6</priority></url>
+  <url><loc>/platform/helpdesk</loc><priority>0.6</priority></url>
+  <url><loc>/platform/expense</loc><priority>0.6</priority></url>
+  <url><loc>/ai/agentic-ai</loc><priority>0.6</priority></url>
+  <url><loc>/ai/voice-ai</loc><priority>0.6</priority></url>
+  <url><loc>/ai/chat-ai</loc><priority>0.6</priority></url>
+  <url><loc>/automation</loc><priority>0.6</priority></url>
+  <url><loc>/services/custom-software</loc><priority>0.6</priority></url>
+  <url><loc>/services/ai-development</loc><priority>0.6</priority></url>
+  <url><loc>/services/automation</loc><priority>0.6</priority></url>
+  <url><loc>/services/integration</loc><priority>0.6</priority></url>
+</urlset>
